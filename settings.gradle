@@ -1,0 +1,2 @@
+rootProject.name = "CardAnalyze"
+include ':app'
